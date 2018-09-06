@@ -1,0 +1,18 @@
+1533618624124	Rename type 'MovieApp1Application'
+1533618664236	Rename package 'com.stackroute.movieapp1'
+1533618708103	Rename package 'com.stackroute.movieapp1.controllers'
+1533618734557	Rename package 'com.stackroute.movieapp1.domain'
+1533618802609	Rename package 'com.stackroute.movieapp1.services'
+1533618837163	Rename package 'com.stackroute.movieapp1.repositories'
+1533618859603	Rename package 'com.stackroute.movieapp1.exceptions'
+1533618946764	Delete element
+1533619487521	Rename type 'MovieServiceImpl'
+1533620583273	Rename type 'MovieRepository'
+1533624333016	Rename type 'MovieControllers'
+1533624927522	Rename package 'com.stackroute.movieapp1.controllers'
+1533624955891	Rename package 'com.stackroute.movieapp1.domaintest'
+1533624984097	Rename package 'com.stackroute.movieapp1.servicestest'
+1533625007715	Rename package 'com.stackroute.movieapp1.repositorytest'
+1533625115268	Rename type 'MovieControllersTest'
+1533626040236	Delete element
+1533638568210	Delete element

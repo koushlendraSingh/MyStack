@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/home/user/Downloads/elasticsearch-spring-boot-spring-data"/>
+			<item value="/home/user/Downloads/elastic"/>
+			<item value="/home/user/Downloads/boeing-w1-e-play/search-service"/>
+			<item value="/home/user/Downloads/boeing-w1-e-play-1.0.0/search-service"/>
+			<item value="/home/user/Downloads/rsvp-service"/>
+			<item value="/home/user/Downloads/rsvp (1)"/>
+			<item value="/home/user/Downloads/GmapDistance"/>
+			<item value="/home/user/workspace/movie-app1"/>
+			<item value="/home/user/workspace/spring-boot-cloud-native"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

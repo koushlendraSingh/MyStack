@@ -1,0 +1,11 @@
+package com.stackroute.searchservice.domain;
+
+import java.util.Date;
+
+public class Query {
+	private String qid;
+	private String query;
+	private Date timeStamp;
+	private String userId;
+
+}

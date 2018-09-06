@@ -1,0 +1,5 @@
+package com.stackroute.mvcproject.controller;
+
+public class MvcController {
+
+}

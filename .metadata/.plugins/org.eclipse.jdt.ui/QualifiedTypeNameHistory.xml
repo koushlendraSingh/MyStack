@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.data.annotation.Id"/>
+<fullyQualifiedTypeName name="com.stackroute.eplay.search.domain.Movie"/>
+<fullyQualifiedTypeName name="org.springframework.data.elasticsearch.repository.ElasticsearchRepository"/>
+<fullyQualifiedTypeName name="org.elasticsearch.index.query.QueryBuilders"/>
+<fullyQualifiedTypeName name="org.elasticsearch.index.query.QueryBuilder"/>
+<fullyQualifiedTypeName name="com.stackroute.eplay.search.domain.City"/>
+</qualifiedTypeNameHistroy>

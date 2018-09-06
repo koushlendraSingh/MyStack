@@ -1,0 +1,9 @@
+package com.stackroute.searchservice.repositories;
+
+import org.springframework.data.mongodb.repository.MongoRepository;
+
+import com.stackroute.searchservice.domain.Event;
+
+public interface EventSearchServiceRepository extends MongoRepository<Event, Integer> {
+
+}

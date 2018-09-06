@@ -1,0 +1,23 @@
+INDEX VERSION 1.130
+/home/user/Documents/workspace-sts-3.9.4.RELEASE/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/706171972.index
+/DemoMvc/src/main/java
+/home/user/Documents/workspace-sts-3.9.4.RELEASE/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2722823650.index
+/DemoMvc/src/main/resources
+/home/user/Documents/workspace-sts-3.9.4.RELEASE/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1968451299.index
+/KeepNote-Step2-Boilerplate/src/main/java
+/home/user/Documents/workspace-sts-3.9.4.RELEASE/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2466598452.index
+/first/src/main/resources
+/home/user/Documents/workspace-sts-3.9.4.RELEASE/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3160421870.index
+/KeepNote-Step1-Boilerplate/src/main/java
+/home/user/Documents/workspace-sts-3.9.4.RELEASE/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2665229916.index
+/MvcProject/src/main/resources
+/home/user/Documents/workspace-sts-3.9.4.RELEASE/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/157304231.index
+/KeepNote-Step3-Boilerplate/src/main/java
+/home/user/Documents/workspace-sts-3.9.4.RELEASE/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2089888285.index
+/MvcProject/src/main/java
+/home/user/Documents/workspace-sts-3.9.4.RELEASE/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4211493914.index
+/KeepNote-Step4-Boilerplate/src/main/java
+/home/user/Documents/workspace-sts-3.9.4.RELEASE/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/446431967.index
+/demo/src/main/resources
+/home/user/Documents/workspace-sts-3.9.4.RELEASE/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2030654304.index
+/second/src/main/resources

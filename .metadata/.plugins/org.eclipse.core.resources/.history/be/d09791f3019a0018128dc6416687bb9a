@@ -1,0 +1,14 @@
+package com.stackroute.searchservice.services;
+
+import java.util.List;
+import java.util.Optional;
+
+import com.stackroute.searchservice.domain.Movie;
+
+public interface SearchService {
+
+	public Optional<Movie> getEventsByCity(String city) ;
+	
+	
+	
+}

@@ -1,0 +1,11 @@
+package com.stackroute.searchservice.repositories;
+
+import org.springframework.data.mongodb.repository.MongoRepository;
+import org.springframework.data.repository.query.Param;
+
+import com.stackroute.searchservice.domain.Event;
+
+public interface EventSearchServiceRepository extends MongoRepository<Event, Integer> {
+    public Iterable<Event> getEventByCity(@Param("city") String city);
+
+}
